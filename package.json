@@ -1,8 +1,20 @@
 {
   "name": "ngx-snelstart-b2b-client",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Angular library for connecting with the SnelStart B2B-Api",
   "main": "index.ts",
   "author": "jvanrossum@snelstart.nl",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvanrossum/ngx-snelstart-b2b-client.git"
+  },
+  "peerDependencies": {
+    "@angular/core": "^4.2.4",
+    "@angular/http": "^4.2.4",
+    "rxjs": "^5.4.2"
+  },
+  "dependencies": {
+    "moment": "^2.19.1"
+  }
 }
