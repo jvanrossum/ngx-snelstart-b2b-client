@@ -1,0 +1,8 @@
+{
+  "name": "ngx-snelstart-b2b-client",
+  "version": "0.0.1",
+  "description": "Angular library for connecting with the SnelStart B2B-Api",
+  "main": "index.ts",
+  "author": "jvanrossum@snelstart.nl",
+  "license": "ISC"
+}
